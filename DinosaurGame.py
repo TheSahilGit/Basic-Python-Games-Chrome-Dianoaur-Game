@@ -1,3 +1,9 @@
+"""Chrome Dinosaur Game recreated with pygame."""
+
+### Sahil Islam ###
+### 06/06/2020 ###
+
+
 import pygame
 import time
 import random
